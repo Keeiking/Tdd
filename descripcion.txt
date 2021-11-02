@@ -1,0 +1,4 @@
+requisito : Registrar una nueva cuenta de usuario.
+descripcionb : el usuario debe poder registrar una cuenta de usuario con la informacion 
+suministrada por el usuario.
+resultado esperado : Notifica el resultado del registro.
